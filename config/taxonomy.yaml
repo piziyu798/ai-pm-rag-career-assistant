@@ -1,0 +1,71 @@
+# AI 产品经理求职 RAG 助手：标签体系
+
+scenarios:
+  - JD解析
+  - 能力诊断
+  - 项目包装
+  - 面试准备
+  - 知识问答
+
+source_types:
+  - JD
+  - AI知识
+  - 能力模型
+  - 项目案例
+  - 简历模板
+  - 面试题
+
+role_types:
+  - AI产品经理
+  - 大模型应用产品经理
+  - RAG产品经理
+  - Agent产品经理
+  - AI SaaS产品经理
+  - AIGC产品经理
+  - AI平台产品经理
+  - AI产品实习生
+
+ai_topics:
+  - RAG
+  - Agent
+  - Prompt
+  - Workflow
+  - Embedding
+  - VectorDB
+  - LLM API
+  - Tool Use
+  - Guardrails
+  - Multimodal
+  - AIGC
+  - Copilot
+
+career_topics:
+  - JD
+  - 能力诊断
+  - 简历
+  - 面试
+  - 作品集
+  - 项目包装
+  - 学习路径
+
+product_topics:
+  - 用户画像
+  - 需求分析
+  - MVP
+  - PRD
+  - 竞品分析
+  - 指标设计
+  - 用户反馈
+  - 引用溯源
+  - 异常兜底
+  - 权限控制
+
+difficulty:
+  - 入门
+  - 中级
+  - 高级
+
+reliability:
+  - high
+  - medium
+  - low

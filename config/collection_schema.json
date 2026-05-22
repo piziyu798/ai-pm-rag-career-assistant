@@ -1,0 +1,20 @@
+{
+  "collection_name": "ai_pm_career_chunks",
+  "vector_model": "BAAI/bge-small-zh-v1.5",
+  "distance": "COSINE",
+  "payload_fields": {
+    "chunk_id": "string, required",
+    "title": "string, required",
+    "text": "string, required",
+    "source_type": "enum, required",
+    "scenario": "list[string], required",
+    "role_type": "list[string], required",
+    "ai_topic": "list[string], optional",
+    "career_topic": "list[string], optional",
+    "product_topic": "list[string], optional",
+    "difficulty": "enum, optional",
+    "reliability": "enum, required",
+    "source_name": "string, optional",
+    "source_url": "string, optional"
+  }
+}

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+backend.log
+
+# Secrets
+.env
+*.key
+*.pem
+config.local.*
+secrets.*
+
+# Qdrant local storage
+qdrant_storage/
+qdrant_storage_local/
+
+# Large/generated files
+data/processed/
+*.sqlite
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
